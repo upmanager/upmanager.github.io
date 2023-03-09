@@ -27,7 +27,7 @@
 
 'use strict';
 
-var DEFAULT_URL = 'resume.pdf';
+var DEFAULT_URL = 'https://rawcdn.githack.com/upmanager/upmanager.github.io/85b38f04ee4d06ac07d0f1b531cf69204cb58206/resume.pdf';
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
